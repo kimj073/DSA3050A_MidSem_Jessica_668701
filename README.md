@@ -32,13 +32,13 @@ The World Bank needs to identify fraudulent loan disbursements, resolve critical
 6.	Replace inconsistent values
 7.	Remove unnecessary columns
 8.  Split one column into multiple columns
-9.  Merge two or more columns. (2 Marks)
-10. Create a custom column. (3 Marks)
-11. Create a conditional column. (3 Marks)
-12. Extract year, month, quarter, and day from a date column. (4 Marks)
-13. Filter rows using at least two conditions. (2 Marks)
-14. Sort data meaningfully. (2 Marks)
-15. Add an index column. (2 Marks)
+9.  Merge two or more columns
+10. Create a custom column
+11. Create a conditional column
+12. Extract year, month, quarter, and day from a date column
+13. Filter rows using at least two conditions
+14. Sort data meaningfully
+15. Add an index column
 16	Merge queries using a common key.
 17	Append two related datasets.
 18	Pivot a column.
