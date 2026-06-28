@@ -18,3 +18,4 @@ This project uses the World Bank Projects & Operations dataset containing **5 wo
 
 ## Screenshots
 Screenshots required are linked below:
+![Raw Dataset](Screenshots/BIMS0.2.png) ![Power Query Editor](Screenshots/BIMS0.3.png) ![Applied Steps](Screenshots/BIMS0.7.png) ![Column Profile](Screenshots/BIMS1.9.png) ![Final Cleaned Dataset](Screenshots/BIMS0.6.png) ![Dashboard](Screenshots/BIMS Dashboard 3.png)
