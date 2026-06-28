@@ -39,12 +39,12 @@ The World Bank needs to identify fraudulent loan disbursements, resolve critical
 13. Filter rows using at least two conditions
 14. Sort data meaningfully
 15. Add an index column
-16	Merge queries using a common key.
-17	Append two related datasets.
-18	Pivot a column.
-19.	Use Group By with multiple aggregations.
+16	Merge queries using a common key
+17	Append two related datasets
+18	Pivot a column
+19.	Use Group By with multiple aggregations
 20. Duplicated Rows and Columns
-21. Romoved unnecessary rows.
+21. Romoved unnecessary rows
 
 ## List of visuals created
 1.	KPI cards
