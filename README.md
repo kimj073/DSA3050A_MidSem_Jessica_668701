@@ -18,7 +18,12 @@ This project uses the World Bank Projects & Operations dataset containing **5 wo
 
 ## Screenshots
 Screenshots required are linked below:
-![Raw Dataset](Screenshots/BIMS0.2.png) ![Power Query Editor](Screenshots/BIMS0.3.png) ![Applied Steps](Screenshots/BIMS0.7.png) ![Column Profile](Screenshots/BIMS1.9.png) ![Final Cleaned Dataset](Screenshots/BIMS0.6.png) ![Dashboard](Screenshots/BIMSDashboard3.png)
+![Raw Dataset](Screenshots/BIMS0.2.png) 
+![Power Query Editor](Screenshots/BIMS0.3.png) 
+![Applied Steps](Screenshots/BIMS0.7.png) 
+![Column Profile](Screenshots/BIMS1.9.png) 
+![Final Cleaned Dataset](Screenshots/BIMS0.6.png) 
+![Dashboard](Screenshots/BIMSDashboard3.png)
 
 ## Business Problem
 The World Bank needs to identify fraudulent loan disbursements, resolve critical data quality issues in its global project portfolio, and optimize geographic resource allocation across 28,000+ projects in 160 countries.
